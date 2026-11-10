@@ -38,8 +38,4 @@ About six years of work experience in Iran: sports sponsorship negotiation, sale
   <img src="https://skillicons.dev/icons?i=r,py,nodejs,sqlite,supabase,cloudflare,git,html,css,js" alt="R, Python, Node.js, SQLite, Supabase, Cloudflare, Git, HTML, CSS, JavaScript">
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirrezaaliizadeh&show_icons=true&hide_border=true&bg_color=06281f&title_color=7ee0b0&icon_color=7ee0b0&text_color=bff5d9" alt="GitHub stats" height="165">
-</p>
-
 The code of my website is private.
